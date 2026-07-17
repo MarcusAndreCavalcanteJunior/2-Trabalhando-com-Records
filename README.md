@@ -1,3 +1,7 @@
+# Lembrar de ler o repositório para conhecer os execicios de java com IA da DIO #
+
+https://github.com/digitalinnovationone/exercicios-java-basico
+
 Trabalhando com Records
 Anotações e exercício da aula sobre Records em Java.
 📌 Conceitos
